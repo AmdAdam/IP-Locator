@@ -8,8 +8,8 @@
  then use ./ip-locator.pl to run. 
  If you have any problem with this tool, open terminal and 
  install the below librarys
- """ sudo apt-get install liblocal-lib-perl,
- sudo apt-get install libjson-perl """
+ """ sudo apt-get install liblocal-lib-perl """
+ """ sudo apt-get install libjson-perl """
  Its nothing special it just provides information from this website 
  http://ip-api.com/ check it out
  Th4nks for using our tool
