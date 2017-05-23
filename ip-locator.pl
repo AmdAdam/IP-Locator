@@ -26,7 +26,7 @@ print q{
                   By : Technux0                                           
 
        ------------------------------------   
-             [FOLLOW US ON YOUTUBE]          :. https://youtube.com/technux0.:
+             [FOLLOW US ON YOUTUBE]          :. https://youtube.com/technux0
        ------------------------------------   
 };
 
